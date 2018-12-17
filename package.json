@@ -1,0 +1,16 @@
+{
+  "name": "simpleapp",
+  "version": "1.0.0",
+  "description": "Simple Nodejs App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Hendriktio Freizello",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.16",
+    "pug": "^2.0.3"
+  }
+}
